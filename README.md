@@ -40,4 +40,9 @@ Make sure you launch "MW3 Name Spoofer.exe" as soon as MW3 launches and you see 
 
 - For brain dead skids saying this is dEtEctEd, it will never be so please go back to bed.
     
-- If it isn't working for you, you're either retarded or doing something wrong, because it works,
+- If it isn't working for you, you're either retarded or doing something wrong, because it works.
+
+## License
+> Copyright © 2021 WiiZARDD
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
