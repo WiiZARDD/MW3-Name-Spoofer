@@ -1,26 +1,37 @@
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img src="https://i.imgur.com/cnZmQo4.png" />
+			<img src="https://i.imgur.com/34BTOrL.png" />
 		</td>
 	</tr>
 	<tr>
 
-# MW3 Name Spoofer (UNDETECTED) - WORKING
-
 *BRAND NEW (WORKING) MW3 NAME SPOOFER/FAKER FOR STEAM CLIENTS. COMPLETELY UNDETECTABLE/UNBANNABLE.*
-
+		
+#  ‍ 	
+		
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
-			<img src="https://i.imgur.com/7dFflXv.png" />
+			<img src="https://i.imgur.com/wfR0YMH.png" />
 		</td>
 	</tr>
 	<tr>
-    
 
-# Getting Started
-    
+Colored names will NOT WORK with this tool because color codes in MW3 were patched a while ago!
+
+With MW3 Name Spoofer you can change your in-game name without having to change your steam name! Stay completely HIDDEN FROM REPORTS :) -LUCIFER
+		
+#  ‍ 
+		
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://i.imgur.com/rc7SEf8.png" />
+		</td>
+	</tr>
+	<tr>
+		
 `Open .sln with Visual Studio 2019`
 
 `Compile batch build x86 to create .EXE`
@@ -29,28 +40,56 @@
 		
 `Run .EXE as administrator`
 
+#  ‍ 	
+
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://i.imgur.com/n9wNYqB.png" />
+		</td>
+	</tr>
+	<tr>
 		
-# Background
-    
-Colored names will NOT WORK with this tool because color codes in MW3 were patched a while ago! With MW3 Name Spoofer you can change your in-game name without having to change your steam name! Stay completely HIDDEN FROM REPORTS :) -LUCIFER
+Make sure you launch "MW3 Name Spoofer.exe" as soon as MW3 launches and you see the logo appear.
+		
+#  ‍ 	
 
-# Updates
-
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://i.imgur.com/EM9WSgk.png" />
+		</td>
+	</tr>
+	<tr>
+		
 - User Interface Updates
 - New Classes
 - Updated for MW3 1.9.388110!
-    
-# Not Working?
-    
-Make sure you launch "MW3 Name Spoofer.exe" as soon as MW3 launches and you see the logo appear.
-    
-# FYI
+		
+#  ‍ 	
 
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://i.imgur.com/ni56opQ.png" />
+		</td>
+	</tr>
+	<tr>
+		
 - For brain dead skids saying this is dEtEctEd, it will never be so please go back to bed.
     
 - If it isn't working for you, you're either retarded or doing something wrong, because it works.
 
-## License
+#  ‍ 	
+
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://i.imgur.com/909cNEd.png" />
+		</td>
+	</tr>
+	<tr>
+		
 > Copyright © 2021 WiiZARDD
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
